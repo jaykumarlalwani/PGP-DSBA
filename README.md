@@ -1,1 +1,4 @@
-This repository contains all projects created during one year PG program in Data Science and Business Analytics (PGP - DSBA) at Great Learning and Texas McCombs School of Business, The University of Texas at Austin.
+Project: E-Commerce Revenue Management
+Module: Python for Data Science
+Solution of a business problem to identify which region has maximum sales volume, which type of products are sold the most, how much revenue the E-Commerce Company makes, and the brands that use its portal.
+Skills & Tools Covered: numpy, pandas, visualization, user defined functions
