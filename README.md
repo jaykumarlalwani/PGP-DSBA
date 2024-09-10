@@ -2,3 +2,4 @@ This repository contains all projects created during one year PG program in Data
 * Python for Data Science
 * Statistical Methods for Decision Making
 * Advanced Statistics
+* Data Mining
