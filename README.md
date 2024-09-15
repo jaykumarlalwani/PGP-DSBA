@@ -3,3 +3,4 @@ This repository contains all projects created during one year PG program in Data
 * Statistical Methods for Decision Making
 * Advanced Statistics
 * Data Mining
+* Predictive Modeling
