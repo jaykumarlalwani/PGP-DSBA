@@ -1,5 +1,4 @@
-This repository contains all projects created during one year PG program in Data Science and Business Analytics (PGP - DSBA) at Great Learning and Texas McCombs School of Business, The University of Texas at Austin.
-* Python for Data Science
-* Statistical Methods for Decision Making
-* Advanced Statistics
-* Data Mining
+* Project: Coded Project - Predictive Modeling
+* Module: Predictive Modeling
+* This project has two parts a) Computer-activ Project using Linear Regression which aims to predict the percentage time the computer remains in user mode. b) Women's contraceptive Project using Classification techniques to classify how many women use or not use contraceptive.
+* Skills & Tools Covered: Linear Regression, Logistic Regression
