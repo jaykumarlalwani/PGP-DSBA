@@ -4,3 +4,4 @@ This repository contains all projects created during one year PG program in Data
 * Advanced Statistics
 * Data Mining
 * Predictive Modeling
+* Machine Learning
