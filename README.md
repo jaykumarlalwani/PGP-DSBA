@@ -1,6 +1,4 @@
-This repository contains all projects created during one year PG program in Data Science and Business Analytics (PGP - DSBA) at Great Learning and Texas McCombs School of Business, The University of Texas at Austin.
-* Python for Data Science
-* Statistical Methods for Decision Making
-* Advanced Statistics
-* Data Mining
-* Predictive Modeling
+* Project: Election Exit Poll Prediction
+* Module: Machine Learning
+* The project is to predict which party a citizen is going to vote for on the basis of their age and according to the answers given by the citizens to the questions asked in a survey conducted. Machine Learning techniques like Naive Bayes, KNN, and ensemble methods are used to draw inferences. Various performance metrics have been used to validate the performance of predictions on Test & Train sets. Also perform descriptive analysis based on the speeches by the election candidates.
+* Skills & Tools Covered: Naive Bayes, K-Nearest Neighbor, Ensemble Techniques, Text Mining, Exploratory Data Analysis
