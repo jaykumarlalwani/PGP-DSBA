@@ -1,7 +1,4 @@
-This repository contains all projects created during one year PG program in Data Science and Business Analytics (PGP - DSBA) at Great Learning and Texas McCombs School of Business, The University of Texas at Austin.
-* Python for Data Science
-* Statistical Methods for Decision Making
-* Advanced Statistics
-* Data Mining
-* Predictive Modeling
-* Machine Learning
+* Project: Online retail Orders Analysis
+* Module: SQL
+* This project is based on the order management functionality of an online retail store in which you are provided with the “orders” database and you are asked some queries related to it. Answers to these queries will help the company in making data-driven decisions that will impact the overall growth of the online retail store.
+* Skills & Tools Covered: Data Manipulation Language, Joins, Subqueries, MySQL Workbench, Built-in Functions
