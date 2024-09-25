@@ -6,3 +6,4 @@ List of Modules:
 * Predictive Modeling
 * Machine Learning
 * SQL
+* Time Series Forecasting
