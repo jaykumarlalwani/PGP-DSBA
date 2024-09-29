@@ -7,3 +7,4 @@ List of Modules:
 * Machine Learning
 * SQL
 * Time Series Forecasting
+* Marketing & Retail Analytics
