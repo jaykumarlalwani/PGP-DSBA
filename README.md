@@ -8,3 +8,4 @@ List of Modules:
 * SQL
 * Time Series Forecasting
 * Marketing & Retail Analytics
+* Finance and Risk Analytics
