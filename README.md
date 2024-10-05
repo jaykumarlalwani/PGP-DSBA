@@ -8,5 +8,5 @@ List of Modules:
 * SQL (https://github.com/jaykumarlalwani/PGP-DSBA/tree/SQL)
 * Time Series Forecasting (https://github.com/jaykumarlalwani/PGP-DSBA/tree/Time-Series-Forecasting)
 * Marketing & Retail Analytics (https://github.com/jaykumarlalwani/PGP-DSBA/tree/Marketing-%26-Retail-Analytics)
-* Finance and Risk Analytics
+* Finance and Risk Analytics (https://github.com/jaykumarlalwani/PGP-DSBA/tree/Finance-and-Risk-Analytics)
 * Data Visualization using TABLEAU
