@@ -4,7 +4,7 @@ List of Modules:
 * Advanced Statistics (https://github.com/jaykumarlalwani/PGP-DSBA/tree/Advanced-Statistics)
 * Data Mining (https://github.com/jaykumarlalwani/PGP-DSBA/tree/Data-Mining)
 * Predictive Modeling (https://github.com/jaykumarlalwani/PGP-DSBA/tree/Predictive-Modeling)
-* Machine Learning
+* Machine Learning (https://github.com/jaykumarlalwani/PGP-DSBA/tree/Machine-Learning)
 * SQL
 * Time Series Forecasting
 * Marketing & Retail Analytics
