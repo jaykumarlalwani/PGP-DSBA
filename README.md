@@ -1,6 +1,6 @@
 List of Modules:
 * Python for Data Science (https://github.com/jaykumarlalwani/PGP-DSBA/tree/Python-for-Data-Science)
-* Statistical Methods for Decision Making
+* Statistical Methods for Decision Making (https://github.com/jaykumarlalwani/PGP-DSBA/tree/Statistical-Methods-for-Decision-Making)
 * Advanced Statistics
 * Data Mining
 * Predictive Modeling
