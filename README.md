@@ -9,3 +9,4 @@ List of Modules:
 * Time Series Forecasting
 * Marketing & Retail Analytics
 * Finance and Risk Analytics
+* Data Visualization using TABLEAU
