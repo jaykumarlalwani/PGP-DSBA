@@ -6,7 +6,7 @@ List of Modules:
 * Predictive Modeling (https://github.com/jaykumarlalwani/PGP-DSBA/tree/Predictive-Modeling)
 * Machine Learning (https://github.com/jaykumarlalwani/PGP-DSBA/tree/Machine-Learning)
 * SQL (https://github.com/jaykumarlalwani/PGP-DSBA/tree/SQL)
-* Time Series Forecasting
+* Time Series Forecasting (https://github.com/jaykumarlalwani/PGP-DSBA/tree/Time-Series-Forecasting)
 * Marketing & Retail Analytics
 * Finance and Risk Analytics
 * Data Visualization using TABLEAU
