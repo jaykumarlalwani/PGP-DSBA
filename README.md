@@ -10,3 +10,4 @@ List of Modules:
 * Marketing & Retail Analytics (https://github.com/jaykumarlalwani/PGP-DSBA/tree/Marketing-%26-Retail-Analytics)
 * Finance and Risk Analytics (https://github.com/jaykumarlalwani/PGP-DSBA/tree/Finance-and-Risk-Analytics)
 * Data Visualization using TABLEAU (https://github.com/jaykumarlalwani/PGP-DSBA/tree/Data-Visualization-using-TABLEAU)
+* Capstone Project (https://github.com/jaykumarlalwani/PGP-DSBA/tree/Capstone-Project)
