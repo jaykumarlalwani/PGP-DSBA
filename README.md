@@ -1,12 +1,6 @@
-List of Modules:
-* Python for Data Science (https://github.com/jaykumarlalwani/PGP-DSBA/tree/Python-for-Data-Science)
-* Statistical Methods for Decision Making (https://github.com/jaykumarlalwani/PGP-DSBA/tree/Statistical-Methods-for-Decision-Making)
-* Advanced Statistics (https://github.com/jaykumarlalwani/PGP-DSBA/tree/Advanced-Statistics)
-* Data Mining (https://github.com/jaykumarlalwani/PGP-DSBA/tree/Data-Mining)
-* Predictive Modeling (https://github.com/jaykumarlalwani/PGP-DSBA/tree/Predictive-Modeling)
-* Machine Learning (https://github.com/jaykumarlalwani/PGP-DSBA/tree/Machine-Learning)
-* SQL (https://github.com/jaykumarlalwani/PGP-DSBA/tree/SQL)
-* Time Series Forecasting (https://github.com/jaykumarlalwani/PGP-DSBA/tree/Time-Series-Forecasting)
-* Marketing & Retail Analytics (https://github.com/jaykumarlalwani/PGP-DSBA/tree/Marketing-%26-Retail-Analytics)
-* Finance and Risk Analytics (https://github.com/jaykumarlalwani/PGP-DSBA/tree/Finance-and-Risk-Analytics)
-* Data Visualization using TABLEAU (https://github.com/jaykumarlalwani/PGP-DSBA/tree/Data-Visualization-using-TABLEAU)
+* Project: Life Insurance Sales
+* Module: Capstone Project
+* Context: The dataset belongs to a leading life insurance company. The company wants to predict the bonus for its agents so that it may design appropriate engagement activity for their high performing agents and upskill programs for low performing agents. 
+* Objective: The company wants to predict bonus for its agents based on their performance. The company wants to design engagement activities for their high performing agents. The company wants to design upskill programs for their low performing agents.
+* Conclusion: Regression analysis is used in the project to predict a continuous target variable from one or multiple independent variables. SumAssured, Age, CustTenure, MonthlyIncome, ExistingPolicyTenure, LastMonthCalls, NumberOfPolicy and CustCareScore are the most important factors for life insurance company. Life insurance company can use above important factors to increase agent bonus and number of policies sold to the customers. Life insurance company can design engagement activities for their high performing agents and upskill programs for their low performing agents as well.
+* Skills & Tools Covered: Python, Random Forest, Linear Regression, Data Visualization, Exploratory Data Analysis
